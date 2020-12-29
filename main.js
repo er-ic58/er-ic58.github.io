@@ -14,11 +14,11 @@ function arrayToTable(tableData) {
     $(tableData).each(function (i, rowData) {
         var row = $('<tr></tr>');
         var dtype = i==0 ? 'th' : 'td';
-        var app = i==0 ? thead : tbody;
         $(rowData).each(function (j, cellData) {
             row.append($('<'+dtype+'>'+cellData+'</'+dtype+'>'));
         });
-        app.append(row);
+        if (i==0) thead.append(row);
+        else tbody.append(row);
     });
     return table;
 }
@@ -35,6 +35,7 @@ setupPage = function(){
 
   $.ajax({
         type: "GET",
+        beforeSend: function(xhr){  xhr.overrideMimeType( "text/plain; charset=x-user-defined" );},
         url: "stats/"+season+".csv",
         success: function (data) {
             $('#tablelocation').append(arrayToTable(Papa.parse(data).data));
