@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>NHL</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" href="index.css">
     <script src="sort-table.js"></script>
   </head>
@@ -18,6 +19,55 @@
         By Eric Fitzpatrick
       </p>
     </div>
+  </section>
+  <section class="section">
+    <form class="box">
+        <div class="field">
+            <label class="label">Team</label>
+            <div class="select">
+              <select>
+                <option>All</option>
+                <option>ANA</option>
+                <option>ARI</option>
+                <option>ATL</option>
+                <option>BOS</option>
+                <option>BUF</option>
+                <option>CAR</option>
+                <option>CBJ</option>
+                <option>CGY</option>
+                <option>CHI</option>
+                <option>COL</option>
+                <option>DAL</option>
+                <option>DET</option>
+                <option>EDM</option>
+                <option>FLA</option>
+                <option>L.A</option>
+                <option>MIN</option>
+                <option>MTL</option>
+                <option>N.J</option>
+                <option>NSH</option>
+                <option>NYI</option>
+                <option>NYR</option>
+                <option>OTT</option>
+                <option>PHI</option>
+                <option>PIT</option>
+                <option>S.J</option>
+                <option>STL</option>
+                <option>T.B</option>
+                <option>TOR</option>
+                <option>VAN</option>
+                <option>VGK</option>
+                <option>WPG</option>
+                <option>WSH</option>
+              </select>
+            </div>
+        </div>
+        <div class="field">
+            <button class="button is-success is-right">
+                Refresh
+            </button>
+        </div>
+    </form>
   </section>
   <section class="section">
     <div class="container has-text-left">
@@ -77,5 +127,8 @@
       </table>
     </div>
   </section>
+
+
+  <script src="main.js"></script>
   </body>
 </html>
