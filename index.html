@@ -5,24 +5,76 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Hello Bulma!</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
+    <link rel="stylesheet" href="index.css">
+    <script src="sort-table.js"></script>
   </head>
   <body>
   <section class="section">
     <div class="container has-text-centered">
       <h1 class="title">
-        Hello World
+        NHL Stats
       </h1>
       <p class="subtitle">
-        My first website with <strong>Bulma</strong>!
+        By Eric Fitzpatrick
       </p>
     </div>
+  </section>
+  <section class="section">
     <div class="container has-text-left">
-      <h2 class="title">
-        I just pissed my pants
-      </h2>
-      <p class="subtitle">
-        They are absolutely <strong>sopping</strong>!
-      </p>
+      <table class="js-sort-table table is-striped is-hoverable is-fullwidth" id="stats_table">
+        <thead>
+          <tr>
+            <th>Player</th>
+            <th>GP</th>
+            <th>Points</th>
+            <th>Goals</th>
+            <th>Assists</th>
+            <th>EVP</th>
+            <th>EVG</th>
+            <th>EVA</th>
+            <th>Total Points</th>
+            <th>IPP</th>
+            <th>iXG</th>
+            <th>PIM</th>
+            <th>Giveaways</th>
+            <th>Takeaways</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Leon Draisaitl</td>
+            <td>71</td>
+            <td>110</td>
+            <td>43</td>
+            <td>67</td>
+            <td>66</td>
+            <td>27</td>
+            <td>???</td>
+            <td>???</td>
+            <td>81.16</td>
+            <td>12.98</td>
+            <td>12</td>
+            <td>65</td>
+            <td>48</td>
+          </tr>
+            <tr>
+              <td>Leon Draisaitl Again</td>
+              <td>71</td>
+              <td>110</td>
+              <td>43</td>
+              <td>67</td>
+              <td>66</td>
+              <td>27</td>
+              <td>???</td>
+              <td>???</td>
+              <td>81.16</td>
+              <td>12.98</td>
+              <td>12</td>
+              <td>65</td>
+              <td>48</td>
+            </tr>
+        </tbody>
+      </table>
     </div>
   </section>
   </body>
