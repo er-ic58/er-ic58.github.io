@@ -18,7 +18,96 @@
  * @param dir   Optional. The sort direction; pass 1 for asc; -1 for desc
  * @returns void
  */
+
 function sortTable(Table, col, dir) {
+
+  var sortClass, i;
+
+  // get previous sort column
+  sortTable.sortCol = -1;
+  sortClass = Table.className.match(/js-sort-\d+/);
+  if (null != sortClass) {
+      sortTable.sortCol = sortClass[0].replace(/js-sort-/, '');
+      Table.className = Table.className.replace(new RegExp(' ?' + sortClass[0] + '\\b'), '');
+  }
+  // If sort column was not passed, use previous
+  if ('undefined' === typeof col) {
+      col = sortTable.sortCol;
+  }
+
+  if ('undefined' !== typeof dir) {
+      // Accept -1 or 'desc' for descending.  All else is ascending
+      sortTable.sortDir = dir == -1 || dir == 'desc' ? -1 : 1;
+  } else {
+      // sort direction was not passed, use opposite of previous
+      sortClass = Table.className.match(/js-sort-(a|de)sc/);
+      if (null != sortClass && sortTable.sortCol == col) {
+          sortTable.sortDir = 'js-sort-asc' == sortClass[0] ? -1 : 1;
+      } else {
+          sortTable.sortDir = 1;
+      }
+  }
+  Table.className = Table.className.replace(/ ?js-sort-(a|de)sc/g, '');
+
+  // update sort column
+  Table.className += ' js-sort-' + col;
+  sortTable.sortCol = col;
+
+  // update sort direction
+  Table.className += ' js-sort-' + (sortTable.sortDir == -1 ? 'desc' : 'asc');
+
+/*
+  // get sort type
+  if (col < Table.tHead.rows[Table.tHead.rows.length - 1].cells.length) {
+      sortClass = Table.tHead.rows[Table.tHead.rows.length - 1].cells[col].className.match(/js-sort-[-\w]+/);
+  }
+  // Improved support for colspan'd headers
+  for (i = 0; i < Table.tHead.rows[Table.tHead.rows.length - 1].cells.length; i++) {
+      if (col == Table.tHead.rows[Table.tHead.rows.length - 1].cells[i].getAttribute('data-js-sort-colNum')) {
+          sortClass = Table.tHead.rows[Table.tHead.rows.length - 1].cells[i].className.match(/js-sort-[-\w]+/);
+      }
+  }
+  if (null != sortClass) {
+      sortTable.sortFunc = sortClass[0].replace(/js-sort-/, '');
+  } else {
+      sortTable.sortFunc = 'string';
+  }
+  */
+/*
+    window.tableData = window.tableData.sort(function(a,b) {
+        //console.log(a[col]);
+        //console.log(b[col]);
+        if (dir==1) {return a[col] - b[col];}
+        else {return b[col] - a[col];}
+    })
+*/
+    window.tableData = window.tableData.sort(function(RowA, RowB) {
+        var valA, valB;
+        /*
+        if ('function' != typeof sortTable[sortTable.sortFunc]) {
+            sortTable.sortFunc = 'string';
+        }
+        valA = sortTable[sortTable.sortFunc](RowA[sortTable.sortCol]);
+        valB = sortTable[sortTable.sortFunc](RowB[sortTable.sortCol]);
+        */
+
+        valA = RowA[sortTable.sortCol];
+        valB = RowB[sortTable.sortCol];
+
+        var fA = parseFloat(RowA[sortTable.sortCol]);
+        var fB = parseFloat(RowB[sortTable.sortCol]);
+        if (!isNaN(fA) && !isNaN(fB)) { // sort by string
+            valA = fB;
+            valB = fA;
+        }
+
+        return valA == valB ? 0 : sortTable.sortDir * (valA > valB ? 1 : -1);
+    });
+
+    window.tableClassName = Table.className;
+    window.refreshTable();
+
+    /*
     var sortClass, i;
 
     // get previous sort column
@@ -94,6 +183,7 @@ function sortTable(Table, col, dir) {
     for (i = 0; i < rows.length; i++) {
         TBody.appendChild(rows[i]);
     }
+    */
 }
 
 /**
@@ -230,7 +320,8 @@ sortTable.getClickHandler = function(Table, col) {
  * If the table(s) do not have a THead node, one will be created around the
  *  first row
  */
-sortTable.init = function() {
+window.initSortTable = function() {
+  console.log("init");
     var THead, Tables, Handler;
     if (document.querySelectorAll) {
         Tables = document.querySelectorAll('table.js-sort-table');
@@ -287,10 +378,13 @@ sortTable.init = function() {
     sheet.insertRule('table.js-sort-table.js-sort-desc thead tr > .js-sort-active:not(.js-sort-none):after {content: "\\25bc";font-size: 0.7em;padding-left: 3px;line-height: 0.7em;}', 0);
 };
 
+//window.initSortTable = sortTable.init;
+
+
 // Run sortTable.init() when the page loads
 window.addEventListener
-    ? window.addEventListener('load', sortTable.init, false)
-    : window.attachEvent && window.attachEvent('onload', sortTable.init)
+    ? window.addEventListener('load', window.initSortTable, false)
+    : window.attachEvent && window.attachEvent('onload', window.initSortTable)
     ;
 
 // Shim for IE11's lack of NodeList.prototype.forEach
