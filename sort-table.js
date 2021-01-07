@@ -321,7 +321,6 @@ sortTable.getClickHandler = function(Table, col) {
  *  first row
  */
 window.initSortTable = function() {
-  console.log("init");
     var THead, Tables, Handler;
     if (document.querySelectorAll) {
         Tables = document.querySelectorAll('table.js-sort-table');
@@ -378,15 +377,18 @@ window.initSortTable = function() {
     sheet.insertRule('table.js-sort-table.js-sort-desc thead tr > .js-sort-active:not(.js-sort-none):after {content: "\\25bc";font-size: 0.7em;padding-left: 3px;line-height: 0.7em;}', 0);
 };
 
+
+
 //window.initSortTable = sortTable.init;
 
 
 // Run sortTable.init() when the page loads
+/*
 window.addEventListener
     ? window.addEventListener('load', window.initSortTable, false)
     : window.attachEvent && window.attachEvent('onload', window.initSortTable)
     ;
-
+*/
 // Shim for IE11's lack of NodeList.prototype.forEach
 if (typeof NodeList.prototype.forEach !== "function") {
     NodeList.prototype.forEach = Array.prototype.forEach;
