@@ -1,0 +1,907 @@
+Player,Team,GP,Goals,Assists,Total Points,IPP,ixG,PIM,Giveaways,Takeaways
+Matt Duchene,"CBJ, OTT",73,22,23,45,72.58,13.28,0,51,45
+Colton Sceviour,FLA,59,4,9,13,56.52,7.65,0,20,12
+Chandler Stephenson,WSH,64,4,6,10,71.43,3.11,0,10,15
+Valeri Nichushkin,DAL,57,0,9,9,50,4.93,0,30,24
+Ryan Spooner,"EDM, NYR, VAN",52,3,5,8,72.73,4.07,0,18,10
+Trevor Moore,TOR,25,2,6,8,88.89,2.15,0,9,8
+Dylan Sikura,CHI,33,0,7,7,43.75,3.24,0,7,23
+Max Comtois,ANA,10,2,5,7,87.5,0.89,0,4,2
+Martin Frk,DET,30,0,5,5,71.43,2.16,0,10,2
+Paul LaDue,L.A,33,2,3,5,31.25,1.13,0,9,2
+Ryan Graves,COL,26,3,2,5,38.46,0.94,0,11,5
+Corban Knight,PHI,23,1,3,4,100,1.17,0,1,4
+Brendan Gaunce,VAN,3,1,2,3,75,0.09,0,1,0
+Gemel Smith,"BOS, DAL",17,2,1,3,75,1,0,2,5
+Nic Petan,"TOR, WPG",18,1,2,3,75,0.91,0,3,4
+Denis Gurianov,DAL,21,1,2,3,100,1.59,0,4,1
+Nathan Bastian,N.J,7,3,0,3,100,1.03,0,0,1
+Ryan Poehling,MTL,1,3,0,3,100,0.22,0,0,0
+Max Veronneau,OTT,12,1,2,3,100,0.99,0,3,1
+Chris Butler,STL,13,1,1,2,28.57,0.38,0,4,3
+Tom Pyatt,OTT,37,0,2,2,50,2.51,0,8,4
+Andrew Agozzino,COL,11,1,1,2,66.67,0.58,0,4,0
+Victor Olofsson,BUF,6,0,2,2,50,1.11,0,1,1
+C.J. Smith,BUF,11,2,0,2,66.67,1.21,0,3,2
+Adam Johnson,PIT,6,0,2,2,66.67,0.23,0,1,2
+Tomas Plekanec,MTL,3,1,0,1,50,0.71,0,0,0
+Matt Beleskey,NYR,4,1,0,1,100,0.15,0,2,0
+Eric Tangradi,N.J,6,0,1,1,100,0.53,0,1,3
+Zac Dalpe,CBJ,1,0,1,1,100,0.03,0,0,0
+Matt Donovan,NSH,2,0,1,1,100,0.02,0,0,0
+Matt Bartkowski,MIN,2,1,0,1,50,0.03,0,0,0
+Stefan Elliott,OTT,3,0,1,1,100,0.04,0,1,0
+Justin Dowling,DAL,11,0,1,1,50,1.06,0,2,5
+Brandon Davidson,CHI,10,0,1,1,33.33,0.35,5,2,2
+Kyle Rau,MIN,6,0,1,1,100,0.49,0,1,1
+Cameron Schilling,WPG,4,0,1,1,50,0.04,0,3,0
+Jordan Schmaltz,STL,20,0,1,1,20,0.37,0,3,1
+Dominic Toninato,COL,2,1,0,1,100,0.26,0,1,0
+Dillon Heatherington,DAL,5,0,1,1,20,0.33,0,3,0
+Daniel Carr,VGK,6,1,0,1,50,0.9,0,2,3
+Sonny Milano,CBJ,8,1,0,1,33.33,0.47,0,1,0
+Dante Fabbro,NSH,4,1,0,1,100,0.08,0,1,2
+Ben Gleason,DAL,4,0,1,1,50,0.02,0,2,3
+Jacob MacDonald,FLA,2,1,0,1,100,0.06,0,2,0
+Zack MacEwen,VAN,4,0,1,1,100,0.35,0,4,0
+Kailer Yamamoto,EDM,17,1,0,1,25,1.38,0,6,3
+Jaret Anderson-Dolan,L.A,5,0,1,1,50,0.29,0,2,2
+Kristian Vesalainen,WPG,5,0,1,1,100,0.01,0,2,0
+Eeli Tolvanen,NSH,4,1,0,1,50,0.36,0,1,3
+Alexandre Texier,CBJ,2,1,0,1,33.33,0.63,0,2,0
+Calle Rosen,TOR,4,1,0,1,25,0.09,0,3,0
+Daniel Brickley,L.A,4,0,1,1,50,0.03,0,2,0
+Jimmy Schuldt,VGK,1,0,1,1,50,0.03,0,1,0
+Derek MacKenzie,FLA,1,0,0,0,-,0,0,0,0
+Chris Thorburn,STL,1,0,0,0,-,0,0,0,0
+Patrick Eaves,ANA,7,0,0,0,0,0.9,0,3,1
+Lee Stempniak,BOS,2,0,0,0,-,0,0,1,3
+Adam Cracknell,ANA,2,0,0,0,-,0.19,0,1,0
+Stephen Gionta,NYI,5,0,0,0,-,0.44,0,1,0
+Mark Letestu,CBJ,2,0,0,0,-,0.02,0,0,0
+Paul Carey,"BOS, OTT",7,0,0,0,0,0.2,0,4,3
+Anthony Peluso,CGY,4,0,0,0,-,0.02,5,1,2
+Cameron Gaunce,T.B,2,0,0,0,0,0.09,0,2,2
+Mark Alt,COL,2,0,0,0,-,0.04,0,0,0
+Steven Fogarty,NYR,10,0,0,0,0,0.39,0,3,4
+Reid Boucher,VAN,1,0,0,0,-,0,0,0,0
+Adam Clendening,CBJ,4,0,0,0,0,0.07,0,0,2
+Ryan Murphy,"MIN, N.J",3,0,0,0,0,0.02,0,0,1
+Matt Tennyson,BUF,4,0,0,0,0,0.07,0,3,0
+Trevor Carrick,CAR,1,0,0,0,-,0.01,5,0,0
+Kevin Roy,ANA,3,0,0,0,-,0.27,0,2,1
+Danny O'Regan,BUF,1,0,0,0,-,0.31,0,0,0
+Anton Blidh,BOS,1,0,0,0,-,0,0,0,1
+Tyrell Goulbourne,PHI,2,0,0,0,-,0.14,0,0,1
+Laurent Dauphin,ARI,1,0,0,0,-,0.51,0,0,0
+Curtis Lazar,CGY,1,0,0,0,-,0,0,0,0
+Kerby Rychel,CGY,2,0,0,0,-,0.01,0,0,0
+Dakota Mermis,ARI,1,0,0,0,0,0,0,0,0
+Andreas Englund,OTT,3,0,0,0,-,0.01,10,2,0
+Josh Jacobs,N.J,1,0,0,0,-,0.02,0,3,0
+Nicolas Aube-Kubel,PHI,9,0,0,0,0,0.11,0,0,2
+Dominic Turgeon,DET,4,0,0,0,-,0.07,0,0,1
+Louie Belpedio,MIN,2,0,0,0,0,0,0,0,0
+Mark Friedman,PHI,1,0,0,0,-,0.01,0,0,0
+Chase De Leo,ANA,1,0,0,0,0,0.25,0,0,0
+Nelson Nogier,WPG,1,0,0,0,-,0.02,0,0,0
+Anton Lindholm,COL,2,0,0,0,-,0.03,0,0,0
+Joe Hicketts,DET,11,0,0,0,0,0.5,0,6,2
+Jack Rodewald,OTT,6,0,0,0,-,0.36,0,0,0
+Nikita Soshnikov,STL,5,0,0,0,0,0.11,0,1,0
+Anthony Richard,NSH,1,0,0,0,-,0,0,0,0
+Jakub Zboril,BOS,2,0,0,0,-,0.07,0,2,0
+Cooper Marody,EDM,6,0,0,0,-,0.53,0,0,5
+Guillaume Brisebois,VAN,8,0,0,0,0,0.17,0,7,2
+Kyle Capobianco,ARI,2,0,0,0,-,0.02,0,0,0
+Zach Senyshyn,BOS,2,0,0,0,-,0.49,0,1,0
+William Borgen,BUF,4,0,0,0,-,0.04,0,0,0
+Kole Sherwood,CBJ,2,0,0,0,-,0.09,0,0,1
+Ryan Lomberg,CGY,4,0,0,0,-,0.11,0,0,1
+Nick Lappin,N.J,11,0,0,0,0,0.57,0,2,3
+Brandon Gignac,N.J,1,0,0,0,-,0.02,0,2,0
+Timothy Gettinger,NYR,4,0,0,0,0,0.18,0,3,0
+Trent Frederic,BOS,15,0,0,0,-,1.56,5,2,5
+Logan Brown,OTT,2,0,0,0,-,0.27,0,0,1
+Vitaly Abramov,OTT,1,0,0,0,-,0.21,0,2,3
+Anthony Greco,FLA,1,0,0,0,-,0.1,0,0,0
+Rem Pitlick,NSH,1,0,0,0,-,0,0,0,0
+Maxim Mamin,FLA,7,0,0,0,-,0.5,5,0,1
+Dylan Gambrell,S.J,8,0,0,0,0,0.39,0,0,5
+Urho Vaakanainen,BOS,2,0,0,0,-,0.02,0,1,0
+Erik Brannstrom,OTT,2,0,0,0,-,0.07,0,4,1
+Justin Kloos,ANA,1,0,0,0,-,0.17,0,0,1
+Eric Robinson,CBJ,13,0,0,0,0,1.82,0,5,1
+Sheldon Rempal,L.A,7,0,0,0,0,0.24,0,4,0
+Filip Zadina,DET,9,0,0,0,0,0.6,0,5,3
+Jacob Nilsson,CHI,2,0,0,0,-,0,0,1,1
+Logan O'Connor,COL,5,0,0,0,-,0.06,0,0,1
+Josh Teves,VAN,1,0,0,0,-,0,0,0,1
+Ryan Kuffner,DET,10,0,0,0,-,0.76,0,1,2
+Brady Keeper,FLA,1,0,0,0,0,0.06,0,0,0
+Nico Sturm,MIN,2,0,0,0,-,0.51,0,0,0
+Brogan Rafferty,VAN,2,0,0,0,-,0.05,0,1,1
+Blake Lizotte,L.A,1,0,0,0,-,0.12,0,0,1
+Paul Byron,MTL,56,11,11,22,66.67,7.89,7,24,9
+Andrew Copp,WPG,69,9,13,22,62.86,8.94,2,25,18
+Ondrej Kase,ANA,30,10,5,15,71.43,7.09,2,13,13
+Trevor van Riemsdyk,CAR,78,3,11,14,38.89,3.99,2,32,22
+Tyler Ennis,TOR,51,10,3,13,86.67,5.4,2,15,18
+Devon Toews,NYI,48,3,10,13,46.43,3.17,2,23,12
+Henrik Borgstrom,FLA,50,5,6,11,55,3.22,2,24,21
+Tim Schaller,VAN,47,3,7,10,58.82,4.42,2,7,12
+Mason Appleton,WPG,36,3,7,10,58.82,2.34,2,5,4
+Tyler Pitlick,DAL,47,6,2,8,57.14,5.63,2,16,11
+Matthew Peca,MTL,39,3,5,8,133.33,2.42,2,12,7
+Sven Baertschi,VAN,26,6,1,7,63.64,3.65,2,6,8
+Michael Dal Colle,NYI,28,3,4,7,53.85,3.18,2,11,7
+Jakob Forsbacka Karlsson,BOS,28,2,5,7,77.78,2.21,2,4,9
+Markus Hannikainen,CBJ,44,4,3,7,77.78,4.72,2,1,12
+Troy Terry,ANA,32,2,5,7,46.67,2.46,2,7,11
+Robby Fabbri,STL,32,2,4,6,40,3.48,2,4,4
+Christian Dvorak,ARI,20,1,5,6,66.67,3,2,12,11
+Josh Currie,EDM,21,2,3,5,71.43,1.51,2,2,2
+Noah Juulsen,MTL,21,1,4,5,27.78,0.57,2,15,5
+Dillon Dube,CGY,25,1,4,5,55.56,2.41,2,6,6
+Alexandre Fortin,CHI,24,2,3,5,71.43,2.7,2,3,8
+Karson Kuhlman,BOS,11,3,2,5,55.56,0.88,2,2,3
+Taro Hirose,DET,10,1,4,5,83.33,0.82,2,6,4
+Brandon Sutter,VAN,26,2,2,4,50,2.1,2,4,6
+Connor Brickley,NYR,14,1,3,4,80,1.75,2,5,3
+Fredrik Claesson,NYR,37,2,2,4,23.53,1.64,7,27,6
+Frederick Gaudreau,NSH,55,3,1,4,30.77,4.3,2,9,13
+Sammy Blais,STL,32,2,2,4,40,2.66,4,11,11
+Sami Niku,WPG,30,1,3,4,28.57,1,2,11,3
+Ilya Lyubushkin,ARI,41,0,4,4,26.67,1.27,7,22,6
+Ben Street,ANA,21,3,0,3,100,1.29,2,4,2
+Scott Wilson,BUF,15,0,3,3,100,1.68,4,4,3
+Xavier Ouellet,MTL,19,0,3,3,37.5,1.35,7,9,5
+Jonny Brodzinski,L.A,13,2,1,3,60,1.55,2,0,3
+Valentin Zykov,"CAR, EDM, VGK",28,2,1,3,75,2.88,2,15,8
+Anders Bjork,BOS,20,1,2,3,75,1.36,2,9,11
+Joseph Gambardella,EDM,15,0,3,3,50,0.68,2,2,5
+Matt Hunwick,BUF,14,0,2,2,66.67,0.39,2,3,2
+Darren Archibald,"OTT, VAN",12,1,1,2,66.67,0.6,7,3,1
+Tomas Hyka,VGK,17,1,1,2,28.57,1.61,2,4,9
+Tyler Lewington,WSH,2,1,1,2,66.67,0.09,2,3,0
+Nick Paul,OTT,20,1,1,2,50,2.68,2,3,5
+Mikhail Vorobyev,PHI,15,1,1,2,33.33,0.94,2,4,4
+Philippe Myers,PHI,21,1,1,2,22.22,0.82,2,12,6
+Martin Necas,CAR,7,1,1,2,100,0.2,2,6,2
+Isac Lundestrom,ANA,15,0,2,2,33.33,0.9,2,5,1
+Erik Condra,DAL,6,1,0,1,100,0.48,2,5,0
+Karl Alzner,MTL,9,0,1,1,25,0.15,2,6,1
+Luca Sbisa,NYI,9,0,1,1,33.33,0.16,2,3,0
+Brian Lashoff,DET,4,0,1,1,50,0.03,2,0,0
+Wade Megan,DET,11,0,1,1,50,1.14,2,3,2
+Justin Holl,TOR,11,0,1,1,16.67,0.15,2,6,2
+Sam Carrick,ANA,6,0,1,1,100,0.41,2,1,1
+Matt Read,MIN,12,1,0,1,20,0.8,2,4,3
+Ashton Sautner,VAN,17,0,1,1,14.29,0.64,2,10,3
+Remi Elie,BUF,16,0,1,1,100,0.9,2,3,2
+Justin Bailey,PHI,11,0,1,1,50,0.38,2,2,3
+Nathan Walker,WSH,3,0,1,1,100,0.17,2,1,0
+Haydn Fleury,CAR,20,0,1,1,7.69,0.67,2,6,3
+Nikita Scherbak,L.A,8,1,0,1,50,1.08,2,1,0
+Michael Bunting,ARI,5,1,0,1,100,0.63,2,0,0
+Rourke Chartier,S.J,13,1,0,1,50,1.42,2,1,0
+Jacob Middleton,S.J,3,0,1,1,50,0.02,2,1,1
+Jeremy Lauzon,BOS,16,1,0,1,33.33,0.33,2,4,4
+Filip Chlapik,OTT,5,1,0,1,50,0.85,2,2,2
+Tanner Fritz,NYI,8,0,1,1,100,0.77,2,1,1
+Kalle Kossila,ANA,8,1,0,1,100,0.53,2,2,0
+Libor Hajek,NYR,5,1,0,1,33.33,0.27,2,4,4
+Quinn Hughes,VAN,5,0,1,1,50,0.12,2,2,2
+Brad Malone,EDM,16,0,0,0,0,0.95,2,1,0
+Cody Goloubef,OTT,5,0,0,0,0,0.1,2,2,0
+Nate Prosser,MIN,15,0,0,0,0,0.18,2,1,1
+Dylan McIlrath,DET,7,0,0,0,0,0.06,2,2,1
+Zach Trotman,PIT,13,0,0,0,0,0.35,2,5,2
+Erik Burgdoerfer,OTT,4,0,0,0,-,0.04,2,2,0
+Cory Conacher,T.B,1,0,0,0,-,0.02,2,1,0
+Colin Blackwell,NSH,6,0,0,0,-,0.63,2,3,2
+Matt Puempel,DET,8,0,0,0,-,0.81,2,2,0
+John Gilmour,NYR,5,0,0,0,0,0.27,2,3,1
+Marko Dano,COL,8,0,0,0,0,0.3,7,2,3
+Samuel Morin,PHI,5,0,0,0,0,0.1,2,5,1
+Joel Hanley,DAL,16,0,0,0,0,0.44,2,9,3
+Jake Chelios,DET,5,0,0,0,0,0.14,2,4,1
+Nicolas Roy,CAR,6,0,0,0,-,0.12,2,1,3
+Dennis Gilbert,CHI,1,0,0,0,-,0,2,0,0
+Gabriel Carlsson,CBJ,1,0,0,0,-,0.01,2,0,0
+Colton White,N.J,3,0,0,0,0,0.01,2,1,0
+Riley Stillman,FLA,1,0,0,0,0,0.01,2,1,0
+Jake Bean,CAR,2,0,0,0,-,0.02,2,0,1
+Patrick Russell,EDM,6,0,0,0,-,0.81,2,2,3
+Jakub Jerabek,STL,1,0,0,0,-,0.02,2,0,0
+Evan Bouchard,EDM,7,0,0,0,0,0.36,2,2,3
+Jason Pominville,BUF,73,15,13,28,68.29,9.2,4,19,13
+Mikkel Boedker,OTT,71,5,22,27,69.23,6.37,4,21,25
+Anthony Cirelli,T.B,82,11,15,26,57.78,10.29,24,13,29
+Jesper Bratt,N.J,51,6,17,23,82.14,5.74,4,16,15
+Rickard Rakell,ANA,69,9,13,22,61.11,11.25,19,50,31
+Devin Shore,"ANA, DAL",76,6,15,21,70,6.67,4,17,22
+John Klingberg,DAL,64,4,15,19,41.3,4.08,4,66,21
+Markus Nutivaara,CBJ,80,5,13,18,33.33,4.38,4,23,23
+Josh Archibald,ARI,68,9,8,17,58.62,7.68,4,8,13
+Jack Roslovic,WPG,77,4,13,17,62.96,4.54,4,18,22
+Samuel Girard,COL,82,4,13,17,28.81,4.03,4,39,24
+Anton Stralman,T.B,47,2,13,15,37.5,1.88,4,15,20
+Alexander Wennberg,CBJ,75,0,15,15,46.88,4.6,4,23,24
+Ryan Donato,"BOS, MIN",56,6,9,15,78.95,8.09,6,15,26
+Trevor Lewis,L.A,44,3,9,12,66.67,5.93,9,12,10
+Jean-Gabriel Pageau,OTT,39,4,8,12,85.71,5.69,4,20,17
+Nick Schmaltz,"ARI, CHI",40,1,10,11,64.71,3.98,4,21,32
+Ty Rattie,EDM,50,4,6,10,62.5,7.4,4,11,21
+Christian Djoos,WSH,45,1,9,10,35.71,1.26,4,21,9
+Justin Schultz,PIT,29,1,8,9,47.37,1.5,4,23,4
+Mirco Mueller,N.J,53,1,8,9,36,1.32,9,33,17
+Matt Luff,L.A,33,6,3,9,69.23,3.36,4,12,4
+Christoffer Ehn,DET,60,2,6,8,66.67,3.47,4,14,5
+Antti Suomela,S.J,27,3,5,8,100,4.98,4,7,5
+Sam Steel,ANA,22,4,3,7,58.33,1.88,4,8,7
+Egor Yakovlev,N.J,25,2,5,7,50,1.23,4,18,3
+Jamie McGinn,FLA,19,3,3,6,85.71,1.91,4,4,4
+Michael Grabner,ARI,41,2,4,6,60,5.36,4,16,24
+Casey Nelson,BUF,38,1,5,6,30,1.1,4,18,5
+Drake Batherson,OTT,20,1,5,6,60,1.05,4,9,6
+Carl Dahlstrom,CHI,38,0,5,5,14.71,1.09,4,26,8
+Alan Quine,CGY,13,2,2,4,100,0.67,4,5,3
+Peter Cehlarik,BOS,20,2,2,4,57.14,3.06,4,4,13
+Carl Grundstrom,L.A,15,4,0,4,66.67,3.39,4,3,8
+Matt Hendricks,"MIN, WPG",26,0,3,3,60,1.06,9,9,3
+Patrik Berglund,BUF,23,1,2,3,75,2.2,4,4,4
+Kevin Gravel,EDM,36,0,3,3,18.75,1.28,4,16,7
+Jordan Kyrou,STL,16,1,2,3,75,1.03,4,3,3
+Alexander Nylander,BUF,12,1,2,3,75,0.94,4,4,1
+Luke Schenn,"ANA, VAN",26,0,2,2,28.57,0.96,9,9,2
+Jordan Nolan,STL,14,0,2,2,28.57,0.86,4,0,1
+Chad Ruhwedel,PIT,18,1,1,2,33.33,0.56,4,10,7
+Joshua Ho-Sang,NYI,10,1,1,2,66.67,0.71,4,4,3
+Josh Mahura,ANA,17,1,1,2,33.33,0.59,4,8,6
+Martin Hanzal,DAL,7,0,1,1,50,0.44,4,1,2
+Mark Barberio,COL,12,1,0,1,25,0.37,4,8,2
+Max McCormick,OTT,14,1,0,1,100,1.09,4,3,1
+Kurtis MacDermid,L.A,11,0,1,1,25,0.37,4,12,0
+John Quenneville,N.J,19,1,0,1,16.67,1.22,4,3,4
+Brendan Guhle,"ANA, BUF",8,0,1,1,50,0.8,4,0,1
+Alex Formenton,OTT,9,1,0,1,33.33,1.45,4,5,4
+Joel L'Esperance,DAL,18,1,0,1,100,2.2,4,7,6
+Marc Methot,DAL,9,0,0,0,0,0.11,4,2,0
+David Schlemko,MTL,18,0,0,0,0,0.56,4,15,2
+Justin Falk,OTT,10,0,0,0,0,0.22,4,2,1
+Jason Garrison,EDM,17,0,0,0,0,0.35,4,5,2
+Joseph Blandisi,"ANA, PIT",9,0,0,0,0,0.78,4,0,3
+Andrej Sustr,ANA,5,0,0,0,0,0.1,4,0,0
+Luke Johnson,CHI,15,0,0,0,0,1.28,4,1,6
+Kevin Stenlund,CBJ,4,0,0,0,-,0.18,4,1,3
+Ryan Lindgren,NYR,5,0,0,0,0,0.37,6,2,0
+Janne Kuokkanen,CAR,7,0,0,0,0,0.36,4,0,2
+Libor Sulak,DET,6,0,0,0,0,0.3,4,9,2
+Aleksander Barkov,FLA,82,18,30,48,68.57,13.26,6,46,75
+Evgenii Dadonov,FLA,82,16,28,44,69.84,13.93,6,43,43
+Alex DeBrincat,CHI,82,24,20,44,66.67,12.68,6,41,44
+Ryan O'Reilly,STL,82,18,25,43,70.49,15.54,6,27,68
+Alex Tuch,VGK,74,14,28,42,75,12.51,6,40,68
+Gustav Nyquist,"DET, S.J",81,16,25,41,68.33,13.36,6,61,39
+Teuvo Teravainen,CAR,82,11,29,40,74.07,9.88,6,49,44
+Vladimir Tarasenko,STL,76,19,18,37,74,16.3,6,25,29
+Dominik Kahun,CHI,82,11,22,33,64.71,10.13,6,23,31
+Joonas Donskoi,S.J,80,13,19,32,61.54,11.53,6,36,22
+Oliver Bjorkstrand,CBJ,77,19,13,32,78.05,10.92,6,13,30
+Jaden Schwartz,STL,69,7,22,29,74.36,11.39,6,24,41
+Nico Hischier,N.J,69,11,17,28,62.22,11.28,6,25,27
+Nikolaj Ehlers,WPG,62,16,11,27,72.97,10.46,6,17,28
+Anthony Beauvillier,NYI,81,17,8,25,59.52,13.53,6,26,33
+Ryan Murray,CBJ,56,0,24,24,41.38,3.22,6,25,18
+Pavel Buchnevich,NYR,64,11,11,22,68.75,8.77,11,35,25
+Ilya Kovalchuk,L.A,64,9,12,21,80.77,7.34,6,34,19
+Luke Glendening,DET,78,9,11,20,48.78,9.66,6,20,16
+Travis Boyd,WSH,53,5,13,18,69.23,3.86,6,11,11
+Carter Rowney,ANA,62,5,13,18,94.74,5.25,6,23,17
+Josh Leivo,"TOR, VAN",76,11,6,17,47.22,9.63,11,24,34
+Magnus Paajarvi,OTT,80,8,7,15,62.5,8.3,6,15,16
+Sven Andrighetto,COL,64,6,9,15,62.5,5.62,6,18,22
+Austin Czarnik,CGY,54,5,9,14,63.64,5.52,6,12,23
+Filip Chytil,NYR,75,6,8,14,63.64,11.88,6,42,25
+Rocco Grimaldi,NSH,53,5,8,13,92.86,6.27,6,15,27
+Ryan Carpenter,VGK,68,3,10,13,52,8.07,6,14,26
+Andrew Mangiapane,CGY,44,8,5,13,59.09,5.67,6,11,16
+David Backes,BOS,70,5,7,12,57.14,7.4,21,21,32
+Brandon Pirri,VGK,31,9,3,12,57.14,5.88,6,9,12
+Jordan Oesterle,ARI,71,3,9,12,30,2.58,6,48,20
+Nathan Beaulieu,"BUF, WPG",48,3,8,11,31.43,1.76,16,20,7
+Pierre-Edouard Bellemare,VGK,76,4,7,11,47.83,8.79,6,18,29
+Michael Amadio,L.A,43,6,5,11,57.89,3.44,6,12,18
+Chris Kunitz,CHI,56,5,5,10,66.67,4.34,11,18,13
+Victor Mete,MTL,71,0,10,10,20,4.04,6,53,9
+Lukas Radil,S.J,36,6,4,10,58.82,4.69,6,9,14
+Michael Del Zotto,"ANA, STL, VAN",42,1,8,9,36,2.3,6,20,6
+Tobias Rieder,EDM,67,0,9,9,90,6.56,6,9,31
+Kevin Rooney,N.J,41,5,4,9,60,3.54,6,7,9
+Garrett Wilson,PIT,50,2,6,8,66.67,5.42,16,5,5
+Devante Smith-Pelly,WSH,54,4,4,8,57.14,5.72,6,8,6
+Dmitrij Jaskin,WSH,37,2,6,8,61.54,5.29,6,6,12
+Saku Maenalanen,CAR,34,4,4,8,61.54,3.52,6,8,12
+Christian Wolanin,OTT,30,3,5,8,28.57,1.12,6,22,13
+Radim Simek,S.J,41,1,7,8,27.59,1.34,6,21,14
+Sean Walker,L.A,39,2,6,8,34.78,1.94,6,15,14
+Bogdan Kiselevich,FLA,32,0,8,8,57.14,0.63,6,9,4
+Carl Gunnarsson,STL,25,3,3,6,28.57,1.3,6,6,6
+Gabriel Bourque,COL,55,1,5,6,42.86,2.5,6,5,6
+Matt Roy,L.A,25,2,4,6,31.58,1.29,6,15,3
+Lawrence Pilut,BUF,33,1,5,6,28.57,1.07,16,13,7
+John Hayden,CHI,54,3,2,5,41.67,4.07,21,7,14
+Caleb Jones,EDM,17,1,4,5,45.45,0.56,6,13,10
+Dean Kukan,CBJ,25,0,5,5,38.46,0.68,6,5,4
+Joey Anderson,N.J,34,2,3,5,50,3.18,6,3,9
+Korbinian Holzer,ANA,22,1,3,4,25,0.77,6,11,6
+Ross Johnston,NYI,17,1,3,4,57.14,1.52,16,5,2
+Juho Lammikko,FLA,40,0,4,4,57.14,2.99,6,11,9
+Jonas Siegenthaler,WSH,26,0,4,4,28.57,0.59,6,19,3
+Clark Bishop,CAR,20,1,2,3,37.5,1.4,6,5,5
+Michael McLeod,N.J,21,0,3,3,100,1.76,6,8,11
+Andrej Sekera,EDM,24,0,2,2,13.33,0.73,6,11,3
+Danick Martel,T.B,9,0,2,2,50,1.07,6,1,3
+Gavin Bayreuther,DAL,19,1,1,2,18.18,1.07,6,10,3
+Blake Pietila,N.J,19,0,1,1,25,1.34,6,1,8
+Eric Gryba,N.J,10,0,0,0,0,0.29,6,6,4
+Artemi Panarin,CBJ,79,19,40,59,75.64,10.35,8,50,29
+Sean Monahan,CGY,78,20,29,49,75.38,14.06,8,50,65
+David Krejci,BOS,81,12,35,47,82.46,9.56,8,37,44
+Tomas Hertl,S.J,77,17,28,45,71.43,13.8,8,34,33
+Sam Reinhart,BUF,82,17,26,43,72.88,13.74,8,37,36
+Josh Bailey,NYI,82,12,26,38,74.51,9.03,13,61,38
+Kevin Hayes,"NYR, WPG",71,10,26,36,80,10.46,8,43,50
+Artem Anisimov,CHI,78,13,16,29,72.5,12.45,8,10,38
+Vinnie Hinostroza,ARI,72,11,18,29,90.63,12.66,8,28,27
+Nick Bonino,NSH,81,13,13,26,59.09,6.05,8,33,21
+Derek Stepan,ARI,72,9,16,25,71.43,11.34,8,30,32
+Jordan Eberle,NYI,78,12,12,24,58.54,11.38,8,28,31
+Mats Zuccarello,"DAL, NYR",48,9,14,23,71.88,7.29,18,21,25
+Tyler Toffoli,L.A,82,6,16,22,62.86,15.05,13,19,38
+Colin Wilson,COL,65,7,13,20,74.07,6.78,8,8,16
+Matt Nieto,COL,64,3,16,19,70.37,6.36,8,9,16
+Daniel Sprong,"ANA, PIT",63,11,6,17,77.27,7.9,8,26,17
+David Kampf,CHI,63,4,13,17,73.91,5.9,8,6,23
+Marcus Johansson,"BOS, N.J",58,9,7,16,61.54,7.71,8,27,26
+Zemgus Girgensons,BUF,72,5,11,16,69.57,7.21,13,9,15
+Josh Morrissey,WPG,59,1,15,16,34.04,3.55,8,23,28
+Rasmus Andersson,CGY,79,1,14,15,31.25,2.43,13,41,19
+Casey Mittelstadt,BUF,77,9,6,15,46.88,7.08,8,36,31
+Ryan Callahan,T.B,52,5,9,14,63.64,5.93,8,8,20
+Will Butcher,N.J,78,3,11,14,26.92,3.82,8,29,15
+Frederik Gauthier,TOR,70,3,11,14,58.33,3.95,8,12,12
+Pavel Zacha,N.J,61,7,7,14,53.85,6.33,8,25,19
+Alec Martinez,L.A,60,4,9,13,28.89,3,8,62,11
+Nate Schmidt,VGK,61,4,9,13,22.81,3.22,8,32,38
+Tyler Motte,VAN,74,6,6,12,57.14,8.84,8,12,27
+Greg McKegg,CAR,41,6,5,11,68.75,3.49,8,10,14
+Joakim Nordstrom,BOS,70,6,5,11,44,6.18,8,19,21
+Kiefer Sherwood,ANA,50,6,5,11,57.89,5.32,8,21,17
+Tim Heed,S.J,37,1,9,10,34.48,1.13,8,22,10
+Dryden Hunt,FLA,31,2,7,9,64.29,3.56,8,7,10
+Rudolfs Balcers,OTT,36,2,7,9,90,4.5,8,12,11
+Boo Nieves,NYR,43,4,4,8,72.73,2.39,8,19,10
+Phil Varone,PHI,47,3,4,7,58.33,2.81,8,11,5
+Tom Kuhnhackl,NYI,36,4,3,7,50,2.61,8,15,7
+Victor Rask,"CAR, MIN",49,3,4,7,53.85,2.98,8,15,11
+Andrew MacDonald,PHI,47,0,6,6,20.69,1.63,8,25,3
+Erik Haula,VGK,15,2,4,6,75,2.78,8,4,11
+Lukas Sedlak,CBJ,47,4,2,6,50,4.26,8,8,5
+Jean-Sebastien Dea,"N.J, PIT",23,4,2,6,85.71,2.52,8,6,13
+Martin Marincin,TOR,24,1,4,5,35.71,1.1,8,23,9
+Miikka Salomaki,NSH,37,1,4,5,45.45,4.19,8,5,6
+Mackenzie MacEachern,STL,29,3,2,5,83.33,3.01,8,0,6
+Michael Stone,CGY,14,0,4,4,50,0.41,8,6,5
+Brandon Manning,"CHI, EDM",39,2,2,4,25,1.34,13,13,6
+Andy Welinski,ANA,26,1,3,4,30.77,1.32,8,14,5
+Phillip Di Giuseppe,"CAR, NSH",24,1,3,4,57.14,2.44,8,5,9
+Jaycob Megna,ANA,28,1,3,4,33.33,0.85,8,21,11
+Andreas Martinsen,CHI,24,1,3,4,80,1.7,8,7,3
+Zac Rinaldo,NSH,23,1,2,3,75,0.77,13,2,4
+Brad Hunt,"MIN, VGK",42,1,2,3,21.43,2.15,8,14,16
+Vladislav Kamenev,COL,23,0,3,3,60,1.19,8,5,2
+Oscar Fantenberg,"CGY, L.A",61,2,1,3,10.34,2.28,8,35,12
+Luke Witkowski,DET,34,0,2,2,16.67,0.6,23,20,2
+Dalton Prout,CGY,20,1,1,2,18.18,0.53,8,9,3
+Josh Brown,FLA,37,1,1,2,18.18,0.86,18,17,12
+Ian McCoshen,FLA,19,1,1,2,28.57,0.59,8,11,5
+Connor Clifton,BOS,19,0,1,1,10,0.45,8,8,9
+Vinni Lettieri,NYR,27,0,1,1,33.33,3.17,8,8,7
+Jake Dotchin,ANA,20,0,0,0,0,0.33,28,7,4
+Johnny Gaudreau,CGY,82,23,37,60,82.19,16.09,10,96,55
+Cam Atkinson,CBJ,80,25,19,44,64.71,17.41,10,41,34
+Morgan Rielly,TOR,82,15,28,43,43.43,6.67,10,87,49
+William Karlsson,VGK,82,15,22,37,67.27,12.17,10,32,58
+Joe Pavelski,S.J,75,21,15,36,76.6,16.59,10,33,32
+Brock Boeser,VAN,69,16,16,32,68.09,10.68,10,23,36
+Travis Zajac,N.J,80,12,18,30,73.17,8.97,10,28,43
+Nick Foligno,CBJ,73,15,15,30,58.82,8.68,15,23,34
+Jimmy Vesey,NYR,81,13,15,28,70,12.61,15,36,40
+Danton Heinen,BOS,77,10,16,26,70.27,8.67,10,28,43
+Frans Nielsen,DET,72,10,15,25,64.1,6.5,10,26,16
+Anthony Duclair,"CBJ, OTT",74,12,13,25,67.57,9.45,10,23,30
+Brandon Tanev,WPG,80,11,13,24,80,8.95,20,15,18
+Ivan Barbashev,STL,80,11,12,23,88.46,6.43,15,13,31
+Connor Brown,TOR,82,6,16,22,64.71,7.67,10,14,23
+Marc-Edouard Vlasic,S.J,72,3,18,21,39.62,3.7,10,41,16
+Cody Ceci,OTT,74,6,15,21,38.18,4.53,10,53,16
+Austin Wagner,L.A,62,12,9,21,91.3,7.19,10,18,8
+Calle Jarnkrok,NSH,79,7,11,18,45,7.82,10,15,23
+Kenny Agostino,"MTL, N.J",63,6,12,18,66.67,5.78,15,26,25
+Shayne Gostisbehere,PHI,78,4,14,18,42.86,4.45,10,47,16
+Torey Krug,BOS,64,3,14,17,39.53,3.65,10,36,17
+Luke Kunin,MIN,49,6,10,16,57.14,5.98,15,12,10
+Matt Cullen,PIT,71,5,10,15,60,5.98,10,18,17
+Cal Clutterbuck,NYI,73,3,12,15,60,8.14,10,21,16
+Markus Granlund,VAN,77,8,7,15,68.18,7.72,12,4,22
+Colton Parayko,STL,80,5,10,15,25.86,4.89,10,34,23
+Brett Kulak,MTL,57,5,10,15,29.41,3.84,15,42,15
+Joel Armia,MTL,57,7,6,13,56.52,8.23,10,26,30
+Dan Girardi,T.B,62,3,9,12,25.53,3.41,10,22,5
+Jordan Weal,"ARI, MTL, PHI",63,4,8,12,52.17,5.28,10,15,20
+Cam Fowler,ANA,59,2,10,12,33.33,2.59,10,33,20
+Conor Garland,ARI,47,9,3,12,75,5.66,10,8,21
+Sam Gagner,"EDM, VAN",32,4,7,11,73.33,4.36,10,18,5
+Nate Thompson,"L.A, MTL",78,4,6,10,41.67,4.45,10,19,25
+Riley Nash,CBJ,78,2,8,10,62.5,6.75,15,13,39
+Mike Reilly,MTL,57,2,8,10,23.26,3.65,10,53,11
+Olli Maatta,PIT,60,0,10,10,23.26,1.9,10,37,11
+Jacob de la Rose,DET,60,3,6,9,52.94,3.71,12,11,16
+Brandon Dubinsky,CBJ,61,4,4,8,66.67,4.6,10,6,12
+Oliver Kylington,CGY,38,3,5,8,53.33,1.19,10,31,13
+Matt Irwin,NSH,44,1,6,7,35,1.22,10,12,8
+Joe Morrow,WPG,41,1,6,7,25,1.35,15,28,5
+J.T. Brown,MIN,56,2,5,7,43.75,4.12,15,9,16
+Teddy Blueger,PIT,28,5,2,7,70,2.86,15,7,3
+Joakim Ryan,S.J,44,0,7,7,24.14,1.3,10,9,11
+Colby Cave,"BOS, EDM",53,2,5,7,50,5.32,10,10,20
+Corey Perry,ANA,31,4,2,6,75,4.51,10,10,10
+Julius Honka,DAL,29,0,4,4,26.67,1.5,10,24,4
+Juuso Riikola,PIT,37,0,3,3,14.29,1.81,10,14,12
+Jori Lehtera,PHI,27,1,1,2,40,1.21,15,4,4
+Auston Matthews,TOR,68,23,24,47,85.45,17.96,12,54,48
+Mark Scheifele,WPG,82,20,23,43,72.88,12.21,12,34,54
+Sean Couturier,PHI,80,21,22,43,65.15,13.25,12,35,28
+Sebastian Aho,CAR,82,14,26,40,63.49,17.06,12,53,62
+Elias Pettersson,VAN,71,14,25,39,82.98,8.05,12,39,35
+Dylan Strome,"ARI, CHI",78,12,25,37,64.91,8.51,12,31,45
+Jakub Voracek,PHI,78,12,24,36,75,10.3,17,45,24
+Andreas Athanasiou,DET,76,21,13,34,85,13.51,22,40,22
+Brandon Saad,CHI,80,14,18,32,66.67,13.71,12,29,21
+Chris Tierney,OTT,81,6,26,32,71.11,7.42,12,47,45
+Colin White,OTT,71,8,24,32,78.05,10.05,12,33,20
+James van Riemsdyk,PHI,66,14,13,27,75,8.83,12,17,23
+Valtteri Filppula,NYI,72,14,12,26,76.47,6.11,12,22,29
+Conor Sheary,BUF,78,8,18,26,76.47,10.3,12,23,33
+Jake DeBrusk,BOS,68,17,9,26,68.42,10.35,12,23,38
+Andre Burakovsky,WSH,76,11,13,24,68.57,7.66,12,28,27
+Noah Hanifin,CGY,80,3,21,24,38.71,4.67,12,79,39
+Erik Karlsson,S.J,53,1,22,23,41.82,4.48,14,51,48
+Mark Jankowski,CGY,79,8,14,22,81.48,8.15,12,35,37
+Ryan Pulock,NYI,82,3,19,22,35.48,5.83,12,52,22
+Tyson Jost,COL,70,7,14,21,70,7.96,12,8,28
+J.T. Compher,COL,66,9,11,20,74.07,8.22,14,15,18
+Drake Caggiula,"CHI, EDM",55,10,10,20,57.14,7.95,14,17,14
+Esa Lindell,DAL,82,4,15,19,37.25,4.32,17,74,22
+Adam Lowry,WPG,78,10,8,18,60,11.22,22,19,37
+Pontus Aberg,"ANA, MIN",59,9,8,17,68,6.46,12,31,15
+Zach Sanford,STL,60,8,9,17,62.96,7.81,17,12,28
+Riley Sheahan,"FLA, PIT",82,7,9,16,59.26,9.9,12,20,38
+Alex Goligoski,ARI,76,1,14,15,32.61,2.81,12,50,16
+Nick Leddy,NYI,82,4,11,15,24.19,4.02,12,55,13
+Tomas Nosek,VGK,68,7,8,15,62.5,10.41,12,12,28
+Warren Foegele,CAR,77,10,5,15,60,11.64,12,27,29
+Denis Malgin,FLA,50,7,8,15,71.43,4.92,12,13,12
+Andy Greene,N.J,82,3,11,14,28.57,4.12,12,34,31
+Mikko Koivu,MIN,48,4,9,13,61.9,5.02,12,7,25
+Nick Holden,VGK,61,3,10,13,30.95,3.32,12,28,21
+Derek Grant,"ANA, PIT",56,4,9,13,61.9,4.73,12,14,15
+Matt Martin,NYI,67,5,8,13,56.52,5.49,27,18,11
+Austin Watson,NSH,37,4,8,12,60,4.75,17,10,10
+Oscar Klefbom,EDM,61,1,11,12,40,5.15,12,37,20
+Matt Dumba,MIN,32,6,4,10,41.67,3.16,12,14,9
+Brooks Orpik,WSH,53,2,7,9,24.32,1.07,12,23,3
+Dale Weise,"MTL, PHI",51,4,5,9,69.23,5.32,17,8,7
+Taylor Fedun,DAL,54,4,4,8,42.11,2.57,12,37,12
+Jason Demers,ARI,35,2,5,7,33.33,1.07,12,14,12
+Stefan Noesen,N.J,41,2,4,6,66.67,6.69,12,9,17
+Trevor Daley,DET,44,1,4,5,20,2.25,12,30,9
+Chris Wideman,"EDM, FLA, OTT",25,1,4,5,55.56,0.87,12,8,3
+Kevin Connauton,ARI,50,1,4,5,20,2.52,12,21,5
+Michael Chaput,MTL,32,0,5,5,62.5,2.69,12,7,4
+Lias Andersson,NYR,42,1,4,5,55.56,2.56,12,11,12
+Nicolas Deslauriers,MTL,48,1,3,4,44.44,3.94,17,9,9
+Charles Hudon,MTL,32,3,1,4,44.44,3.78,12,13,8
+Anthony Bitetto,"MIN, NSH",36,0,3,3,27.27,1.47,12,12,6
+Juuso Valimaki,CGY,24,1,2,3,30,0.94,12,12,8
+A.J. Greer,COL,15,1,1,2,100,0.87,12,1,4
+Connor McDavid,EDM,78,24,40,64,83.12,16.91,14,68,89
+Mitchell Marner,TOR,82,16,42,58,73.42,12.48,14,55,59
+Claude Giroux,PHI,82,16,34,50,73.53,9.9,14,40,36
+Tyler Seguin,DAL,82,19,26,45,75,17.64,14,41,42
+Brent Burns,S.J,82,6,36,42,50.6,7.17,14,91,65
+Jeff Skinner,BUF,82,27,15,42,60,17.83,14,34,53
+Logan Couture,S.J,81,17,24,41,69.49,12.51,14,30,55
+Elias Lindholm,CGY,81,13,25,38,61.29,10.36,14,34,32
+Yanni Gourde,T.B,80,14,20,34,65.38,11.08,24,30,37
+Cody Eakin,VGK,78,17,16,33,68.75,8.69,14,27,39
+Reilly Smith,VGK,74,13,19,32,66.67,12.58,14,35,45
+Craig Smith,NSH,76,17,13,30,69.77,13,14,31,42
+Marcus Sorensen,S.J,80,15,12,27,60,11.18,19,21,28
+Oskar Lindblom,PHI,81,13,14,27,71.05,12.41,14,25,20
+Jason Zucker,MIN,81,12,14,26,66.67,14.91,14,22,45
+Zach Werenski,CBJ,82,8,17,25,36.76,6.66,14,41,33
+Nolan Patrick,PHI,72,10,15,25,73.53,11.23,14,17,38
+Patric Hornqvist,PIT,69,11,13,24,64.86,12.95,24,15,22
+Adam Henrique,ANA,82,10,14,24,64.86,9.28,14,20,30
+Robert Thomas,STL,70,5,18,23,76.67,5.8,14,24,33
+Miro Heiskanen,DAL,82,8,14,22,37.93,6.69,14,82,27
+Taylor Hall,N.J,33,7,14,21,75,6.79,14,26,29
+Brock McGinn,CAR,82,7,14,21,61.76,12.01,14,27,42
+William Nylander,TOR,54,6,15,21,63.64,10.06,16,20,25
+Brett Howden,NYR,66,6,15,21,67.74,7.2,14,28,23
+Adam Pelech,NYI,78,5,15,20,39.22,4.43,14,37,35
+Erik Johnson,COL,80,5,14,19,35.19,5.12,19,38,23
+Brian Gibbons,"ANA, OTT",64,8,11,19,67.86,4.77,14,21,23
+Alexander Steen,STL,65,7,11,18,60,7.1,14,13,22
+Ron Hainsey,TOR,81,3,14,17,22.67,2.09,14,62,25
+Adam Erne,T.B,65,5,12,17,60.71,5.76,24,8,15
+Johnny Boychuk,NYI,74,2,13,15,30.61,4.45,14,51,7
+Jujhar Khaira,EDM,60,2,13,15,71.43,5.1,29,24,18
+MacKenzie Weegar,FLA,64,4,10,14,40,2.78,19,53,33
+Joel Eriksson Ek,MIN,58,7,7,14,56,10.67,14,7,12
+Roope Hintz,DAL,58,5,8,13,68.42,6.59,14,19,29
+Brian Boyle,"N.J, NSH",73,9,2,11,44,6.85,21,11,13
+Drew Stafford,N.J,57,4,7,11,61.11,5.42,14,15,15
+Jayce Hawryluk,FLA,42,7,4,11,73.33,3.41,14,21,10
+Andrew Ladd,NYI,26,3,7,10,76.92,2.52,14,12,9
+Jay Beagle,VAN,57,1,9,10,58.82,3.27,14,8,9
+Connor Carrick,"DAL, N.J",34,2,8,10,62.5,2.32,19,15,13
+Adam Gaudette,VAN,56,5,5,10,58.82,4.17,16,6,10
+Deryk Engelland,VGK,74,2,7,9,20.93,2.74,14,19,20
+Ben Hutton,VAN,69,3,6,9,23.68,2.51,19,22,22
+Neal Pionk,NYR,73,2,7,9,23.68,3.86,19,48,30
+Kyle Brodziak,EDM,70,5,3,8,53.33,6.4,14,16,23
+Mario Kempe,ARI,52,3,5,8,50,4.01,14,10,8
+Yannick Weber,NSH,62,2,6,8,28.57,1.8,14,13,7
+Jesse Puljujarvi,EDM,46,4,3,7,53.85,3.75,14,29,20
+Henri Jokiharju,CHI,38,0,7,7,29.17,2.02,14,24,5
+Igor Ozhiganov,TOR,53,3,4,7,22.58,1.29,14,34,10
+Kevan Miller,BOS,39,0,6,6,26.09,0.95,19,19,16
+Slater Koekkoek,"CHI, T.B",31,2,4,6,24,1.3,14,6,3
+Dennis Cholowski,DET,52,3,3,6,25,2.57,14,42,4
+Ben Harpur,OTT,51,1,4,5,20.83,1.2,29,55,13
+Jacob Larsson,ANA,49,0,5,5,20,2.5,14,26,9
+Sheldon Dries,COL,40,2,3,5,55.56,3.36,24,7,5
+Max Jones,ANA,30,2,2,4,40,5.78,14,8,10
+Cody McLeod,"NSH, NYR",38,1,0,1,25,2.01,34,1,5
+Patrick Kane,CHI,81,26,40,66,78.57,15.97,16,44,36
+Steven Stamkos,T.B,82,22,26,48,81.36,10.54,16,45,25
+Nathan MacKinnon,COL,82,23,24,47,70.15,16.02,16,48,46
+Jack Eichel,BUF,77,16,31,47,75.81,14.56,16,61,29
+Nicklas Backstrom,WSH,80,13,28,41,74.55,9.41,16,43,39
+Tyler Bertuzzi,DET,73,15,22,37,72.55,11.25,18,41,34
+Kyle Connor,WPG,82,18,17,35,61.4,12.93,16,22,49
+Zach Parise,MIN,74,15,19,34,72.34,14.44,16,19,16
+Kasperi Kapanen,TOR,78,14,20,34,59.65,14.59,23,36,34
+John Carlson,WSH,80,8,25,33,35.87,5.01,16,62,33
+Kris Letang,PIT,65,10,22,32,43.24,6.27,16,46,49
+Filip Forsberg,NSH,64,15,17,32,65.31,15,16,48,49
+Joe Thornton,S.J,73,10,21,31,64.58,6.58,16,35,37
+Bryan Little,WPG,82,8,19,27,67.5,8.07,16,18,32
+Oskar Sundqvist,STL,74,12,15,27,81.82,10.32,16,9,30
+Anthony Mantha,DET,67,13,13,26,68.42,10.45,26,44,29
+Travis Sanheim,PHI,82,6,20,26,38.81,4.83,16,55,18
+Jakob Silfverberg,ANA,73,16,9,25,86.21,11.07,16,21,21
+Mikhail Sergachev,T.B,75,5,20,25,40.98,5.18,18,42,16
+Alex Iafallo,L.A,82,11,14,25,58.14,9.92,18,16,25
+Ondrej Palat,T.B,64,5,19,24,64.86,7.64,16,35,17
+Clayton Keller,ARI,82,13,10,23,60.53,11.18,18,24,35
+Thomas Vanek,DET,64,10,12,22,78.57,6.19,16,27,16
+Loui Eriksson,VAN,81,8,14,22,78.57,8.14,16,7,22
+Colton Sissons,NSH,75,10,12,22,57.89,9.96,16,19,26
+Nic Dowd,WSH,64,8,13,21,80.77,5.2,18,19,23
+Shea Theodore,VGK,79,6,15,21,44.68,5.17,18,53,63
+Ivan Provorov,PHI,82,7,14,21,31.34,5.9,16,70,13
+Evan Rodrigues,BUF,74,7,14,21,58.33,7.41,16,31,24
+Lawson Crouse,ARI,81,8,12,20,66.67,10.38,31,22,23
+Brian Dumoulin,PIT,76,3,16,19,26.39,3.56,16,41,33
+Tanner Pearson,"L.A, PIT, VAN",80,15,4,19,67.86,11.57,16,21,18
+Brendan Leipsic,"L.A, VAN",62,6,13,19,76,6.14,18,16,20
+Jaccob Slavin,CAR,82,2,17,19,35.85,4,16,50,68
+Nick Jensen,"DET, WSH",80,2,16,18,32.14,3.69,16,44,22
+Jason Dickinson,DAL,67,3,15,18,69.23,7.6,16,24,27
+Vladislav Namestnikov,NYR,78,7,10,17,56.67,9,26,41,27
+Brendan Lemieux,"NYR, WPG",63,12,5,17,65.38,5.92,66,14,12
+Christian Fischer,ARI,71,11,6,17,77.27,9.01,16,10,11
+Pat Maroon,STL,74,8,8,16,45.71,8.57,31,19,24
+Scott Harrington,CBJ,73,2,14,16,45.71,3.09,16,14,9
+Andrew Cogliano,"ANA, DAL",78,5,10,15,71.43,9.66,18,28,20
+Zach Aston-Reese,PIT,43,6,9,15,68.18,5.34,21,9,11
+Jason Spezza,DAL,76,6,8,14,66.67,6.68,16,47,19
+Justin Abdelkader,DET,71,3,11,14,58.33,7.55,26,32,5
+Calvin de Haan,CAR,74,1,13,14,34.15,4.48,16,46,52
+Travis Dermott,TOR,64,4,10,14,32.56,3.5,16,46,22
+Filip Hronek,DET,46,4,10,14,56,2.41,16,38,10
+Kyle Turris,NSH,55,2,11,13,61.9,4.38,21,20,17
+Par Lindholm,"TOR, WPG",65,1,12,13,54.17,5.66,16,12,22
+Nikita Zaitsev,TOR,81,3,9,12,23.08,2.31,16,65,15
+Tage Thompson,BUF,65,6,4,10,71.43,6.72,16,28,24
+Jan Rutta,"CHI, T.B",37,2,5,7,25,1.2,16,12,1
+Christian Folin,"MTL, PHI",45,0,6,6,18.18,2.11,16,18,3
+Steven Santini,N.J,39,1,3,4,22.22,1.71,16,8,8
+Steven Kampfer,BOS,35,2,1,3,23.08,1.34,16,7,12
+Alex Petrovic,"EDM, FLA",35,0,2,2,22.22,1.82,16,24,8
+Jake Guentzel,PIT,82,31,26,57,73.08,16.78,18,35,40
+Brayden Point,T.B,79,19,33,52,72.22,16.3,18,21,31
+Mark Stone,"OTT, VGK",77,22,23,45,64.29,13.84,18,46,102
+Phil Kessel,PIT,82,15,28,43,82.69,12.53,20,55,30
+David Pastrnak,BOS,66,20,19,39,73.58,12.34,20,68,32
+Patrice Bergeron,BOS,65,14,22,36,72,11.34,18,23,31
+Brayden Schenn,STL,72,10,25,35,66.04,15.06,28,34,47
+T.J. Oshie,WSH,69,15,18,33,67.35,10.13,18,32,38
+Dustin Brown,L.A,72,10,21,31,72.09,11.02,18,34,25
+Carl Soderberg,COL,82,15,16,31,68.89,12.47,18,20,32
+Jared Spurgeon,MIN,82,10,20,30,48.39,4.65,18,16,22
+Mikael Granlund,"MIN, NSH",79,10,18,28,71.79,11.68,18,24,42
+Ryan Ellis,NSH,82,4,23,27,40.3,4.19,18,42,35
+Bryan Rust,PIT,72,15,12,27,60,12.28,18,27,21
+Charlie Coyle,"BOS, MIN",81,10,16,26,60.47,11.75,18,32,34
+Dominik Simon,PIT,71,7,18,25,65.79,10.12,18,29,33
+Seth Jones,CBJ,75,5,19,24,34.78,6.16,18,57,45
+Zack Kassian,EDM,79,12,11,23,48.94,9.63,53,45,32
+Alex Pietrangelo,STL,71,6,14,20,32.79,4.73,18,40,36
+Jordie Benn,MTL,81,3,17,20,33.33,2.38,18,62,12
+Alex Chiasson,EDM,73,12,8,20,62.5,9.18,18,24,23
+Brad Richardson,ARI,66,14,5,19,65.52,8.65,18,18,22
+Troy Brouwer,FLA,75,10,9,19,67.86,6.69,28,34,17
+Ryan Reaves,VGK,80,6,11,17,65.38,8.85,23,11,35
+Kevin Shattenkirk,NYR,73,1,16,17,44.74,4.14,18,44,31
+Mike Matheson,FLA,75,6,11,17,30.91,4.01,20,114,56
+Nikolay Goldobin,VAN,63,6,10,16,55.17,7.11,18,25,19
+Alex Biega,VAN,41,2,13,15,50,2.82,20,17,4
+Marcus Foligno,MIN,82,7,8,15,62.5,8.04,33,10,24
+Kris Russell,EDM,72,3,11,14,28,2.58,18,62,17
+Noel Acciari,BOS,72,6,8,14,66.67,8.65,23,10,30
+Darren Helm,DET,61,6,7,13,56.52,6.71,18,27,27
+Sami Vatanen,N.J,50,1,10,11,33.33,3.01,18,28,11
+Derrick Pouliot,VAN,62,2,9,11,24.44,2.37,20,35,17
+Jakob Chychrun,ARI,53,2,9,11,42.31,2.94,18,32,14
+William Carrier,VGK,54,8,1,9,64.29,8.61,18,10,30
+Christopher Tanev,VAN,55,1,7,8,28.57,1.02,18,25,12
+Maxime Lajoie,OTT,56,3,4,7,28,2.59,18,41,11
+Christian Jaros,OTT,61,1,5,6,25,2.02,18,39,15
+Kurtis Gabriel,N.J,22,2,2,4,66.67,0.5,33,4,2
+Sidney Crosby,PIT,79,19,42,61,74.39,17.68,22,47,45
+Jonathan Huberdeau,FLA,82,16,31,47,81.03,13.57,20,61,37
+Brock Nelson,NYI,82,19,17,36,78.26,13.26,20,38,45
+Ryan Nugent-Hopkins,EDM,82,15,19,34,70.83,12.85,20,37,39
+Viktor Arvidsson,NSH,58,25,9,34,70.83,12.59,20,31,34
+Jonathan Drouin,MTL,81,11,22,33,66,9.14,22,40,45
+Jesperi Kotkaniemi,MTL,79,10,19,29,78.38,8.59,20,37,30
+Michael Frolik,CGY,65,12,15,27,61.36,9.36,20,45,32
+Kevin Fiala,"MIN, NSH",83,10,17,27,72.97,13.31,22,50,41
+Tyler Bozak,STL,72,9,17,26,74.29,9.66,20,17,25
+Casey Cizikas,NYI,73,15,10,25,78.13,9.63,20,26,32
+Bobby Ryan,OTT,78,7,17,24,61.54,8.94,20,38,43
+J.T. Miller,T.B,75,9,15,24,54.55,7.36,22,27,41
+Mathieu Joseph,T.B,70,13,11,24,66.67,6.7,20,22,23
+Patrick Marleau,TOR,82,11,11,22,44,11.78,20,20,28
+TJ Brodie,CGY,79,4,18,22,32.35,4.1,20,84,59
+Jordan Staal,CAR,50,9,12,21,80.77,10.44,20,21,32
+Matt Calvert,COL,82,9,12,21,60,9.91,25,17,31
+Mattias Janmark,DAL,81,6,15,21,80.77,8.68,20,34,28
+Chris Wagner,BOS,76,10,6,16,57.14,11.91,25,19,18
+Brendan Perlini,"ARI, CHI",68,11,5,16,69.57,9.27,22,13,11
+Derick Brassard,"COL, FLA, PIT",70,9,5,14,58.33,6.9,35,22,32
+James Neal,CGY,63,5,8,13,50,7.94,22,25,11
+Barclay Goodrow,S.J,82,6,7,13,50,6.43,40,15,28
+Brett Seney,N.J,51,5,7,12,75,4.22,20,17,17
+Mark Pysyk,FLA,70,1,8,9,19.57,2.49,20,68,29
+Micheal Haley,"FLA, S.J",43,1,2,3,37.5,3.95,50,15,3
+Brett Connolly,WSH,81,21,23,44,77.19,12.87,22,23,33
+Jakub Vrana,WSH,82,22,18,40,67.8,13.24,22,49,40
+Ryan Dzingel,"CBJ, OTT",78,20,19,39,66.1,12.03,22,31,23
+Nino Niederreiter,"CAR, MIN",82,17,18,35,67.31,15.05,22,31,49
+Bo Horvat,VAN,82,15,18,33,66,13.59,27,30,24
+Paul Stastny,VGK,50,10,20,30,78.95,10.99,22,11,32
+Max Pacioretty,VGK,66,16,13,29,80.56,12.18,22,32,37
+Nazem Kadri,TOR,73,11,18,29,78.38,11.56,37,37,37
+Jeff Petry,MTL,82,6,22,28,38.36,5.03,22,104,32
+Mike Hoffman,FLA,82,15,13,28,73.68,10.03,22,69,39
+Micheal Ferland,CAR,71,10,15,25,59.52,12.61,39,35,31
+Derek Ryan,CGY,81,10,14,24,70.59,7.25,22,46,44
+Jared McCann,"FLA, PIT",78,9,14,23,63.89,8.43,27,37,30
+Jordan Greenway,MIN,81,11,12,23,74.19,9.17,22,18,34
+David Savard,CBJ,82,7,15,22,31.88,5.77,22,35,14
+Jordan Martinook,CAR,82,12,9,21,55.26,16.42,22,28,41
+Charlie McAvoy,BOS,54,5,16,21,39.62,4.19,22,46,23
+Jake Gardiner,TOR,62,3,17,20,33.9,2.69,24,49,23
+Carl Hagelin,"L.A, PIT, WSH",58,5,14,19,55.88,8.38,22,17,26
+Oscar Lindberg,"OTT, VGK",55,9,10,19,61.29,7.97,22,25,22
+Nick Bjugstad,"FLA, PIT",64,11,8,19,65.52,11.91,22,32,31
+Mike Green,DET,43,4,14,18,54.55,2.98,22,41,14
+Jesper Fast,NYR,66,8,10,18,60,10.21,22,21,21
+Brett Pesce,CAR,73,6,12,18,31.03,3.67,22,25,47
+Sean Kuraly,BOS,71,5,12,17,73.91,7.19,27,29,32
+Travis Hamonic,CGY,69,6,9,15,24.19,4.26,27,50,29
+Erik Cernak,T.B,58,4,11,15,28.3,3.52,32,19,6
+Marc Staal,NYR,79,3,10,13,28.26,3.1,22,57,22
+Connor Murphy,CHI,52,5,8,13,31.71,2.58,22,36,9
+Matthew Benning,EDM,70,3,10,13,30.23,2.89,27,42,8
+Melker Karlsson,S.J,79,9,4,13,59.09,6.18,22,18,25
+Michael Rasmussen,DET,62,2,9,11,61.11,5.18,22,25,12
+Vladimir Sobotka,BUF,69,3,7,10,55.56,4.45,22,10,8
+Robert Bortuzzo,STL,59,2,7,9,24.32,3.1,22,17,9
+Adam McQuaid,"CBJ, NYR",50,3,3,6,23.08,1.01,27,18,9
+Dan Hamhuis,NSH,57,0,5,5,20,1.46,22,31,10
+Ryan Kesler,ANA,60,4,1,5,38.46,6.57,22,18,11
+Brett Ritchie,DAL,53,3,2,5,50,4.06,27,10,7
+Thomas Hickey,NYI,40,0,3,3,13.64,1.56,29,24,9
+Jonathan Toews,CHI,82,19,24,43,69.35,14.04,24,41,58
+Brendan Gallagher,MTL,82,28,14,42,68.85,23.61,24,25,53
+Matthew Tkachuk,CGY,80,17,24,41,73.21,13.67,39,50,37
+Travis Konecny,PHI,82,18,20,38,73.08,13.14,24,40,35
+Andreas Johnsson,TOR,73,16,20,36,69.23,9.42,24,19,23
+Justin Williams,CAR,82,12,22,34,68,16.55,24,73,51
+Anze Kopitar,L.A,81,17,17,34,65.38,11.67,24,42,47
+Thomas Chabot,OTT,70,10,24,34,43.59,6.14,24,62,29
+Duncan Keith,CHI,82,5,28,33,39.76,4.78,29,65,21
+Shea Weber,MTL,58,9,16,25,58.14,3.23,24,45,7
+Patrik Laine,WPG,82,13,11,24,55.81,9.8,26,38,21
+Aaron Ekblad,FLA,82,7,15,22,27.85,5.4,24,98,38
+Nick Cousins,ARI,81,6,15,21,61.76,11.14,29,18,37
+Rasmus Ristolainen,BUF,78,3,18,21,41.18,4.67,24,30,15
+Matt Niskanen,WSH,80,6,13,19,35.85,3.8,29,59,31
+Troy Stecher,VAN,78,1,18,19,38,3.12,24,29,35
+Alex Galchenyuk,ARI,72,9,9,18,72,9.63,24,29,27
+Zach Bogosian,BUF,65,2,14,16,32,2.56,34,41,14
+Justin Braun,S.J,78,2,13,15,39.47,3.08,24,48,32
+Jonas Brodin,MIN,82,3,12,15,35.71,3.42,24,17,24
+Marco Scandella,BUF,63,6,6,12,36.36,2.51,24,31,14
+John Moore,BOS,61,1,8,9,31.03,3.01,24,18,9
+Eric Fehr,MIN,72,4,4,8,57.14,5.27,24,11,24
+Greg Pateryn,MIN,80,1,6,7,17.95,2.39,24,15,10
+Nick Seeler,MIN,71,2,5,7,25.93,1.89,39,17,4
+Dmitry Kulikov,WPG,57,0,6,6,18.18,1.63,26,34,16
+Jonathan Ericsson,DET,52,3,2,5,23.81,1.19,29,34,6
+Tomas Tatar,MTL,80,20,28,48,80,13.27,26,35,46
+Mika Zibanejad,NYR,82,14,25,39,78,10.93,28,38,50
+Jonathan Marchessault,VGK,82,15,22,37,62.71,15.51,26,57,48
+Jamie Benn,DAL,78,18,18,36,69.23,13.46,31,64,35
+Tyler Johnson,T.B,80,23,11,34,53.13,13.71,26,22,10
+Roman Josi,NSH,82,9,24,33,50,8.19,36,48,30
+Eric Staal,MIN,81,14,18,32,66.67,15.1,26,29,44
+Artturi Lehkonen,MTL,82,11,20,31,63.27,12.57,26,22,28
+Kyle Palmieri,N.J,74,16,12,28,59.57,9.99,26,29,30
+Richard Panik,ARI,75,11,17,28,63.64,11.06,26,34,38
+Vince Dunn,STL,78,8,18,26,49.06,4.67,26,42,14
+Leo Komarov,NYI,82,4,20,24,58.54,6.36,26,24,26
+Dmitry Orlov,WSH,82,3,21,24,36.36,4.23,26,66,47
+Kyle Clifford,L.A,72,9,10,19,70.37,10.71,61,16,11
+Kyle Okposo,BUF,78,7,10,17,56.67,7.63,33,23,15
+Michael Raffl,PHI,67,4,11,15,57.69,5.72,26,19,26
+Jon Merrill,VGK,57,2,12,14,35,2.54,28,22,15
+Johan Larsson,BUF,73,5,8,13,50,5.98,33,19,25
+Jake McCabe,BUF,59,3,9,12,36.36,2.63,26,23,18
+Erik Gudbranson,"PIT, VAN",76,2,7,9,22.5,2.74,48,29,7
+Dion Phaneuf,L.A,67,1,5,6,20,2.17,36,29,5
+Niklas Hjalmarsson,ARI,82,0,6,6,14.63,1.81,26,35,25
+John Tavares,TOR,82,33,27,60,72.29,22.12,30,57,49
+Alex Ovechkin,WSH,81,28,21,49,65.33,16.5,28,51,34
+Ryan Johansen,NSH,80,10,31,41,67.21,11.91,30,40,30
+Andrew Shaw,MTL,63,16,23,39,70.91,12.83,53,21,12
+Phillip Danault,MTL,81,10,29,39,61.9,10.94,28,41,35
+Chris Kreider,NYR,79,19,18,37,62.71,13.62,33,40,28
+Ryan McDonagh,T.B,82,7,27,34,41.98,5.2,28,56,34
+Josh Anderson,CBJ,82,20,14,34,54.84,15.93,28,17,31
+Ryan Getzlaf,ANA,67,11,21,32,78.05,7.3,38,58,55
+Lars Eller,WSH,81,10,17,27,58.7,12.15,35,46,38
+Dougie Hamilton,CAR,82,14,12,26,43.33,8.17,38,51,30
+Scott Laughton,PHI,82,9,16,25,62.5,10.79,28,38,31
+Damon Severson,N.J,82,8,17,25,42.37,4.62,38,47,19
+Braydon Coburn,T.B,74,3,18,21,42,4.22,28,21,15
+Ryan Strome,"EDM, NYR",81,9,10,19,57.58,8.22,38,38,29
+Keith Yandle,FLA,82,2,16,18,27.69,4.24,28,94,18
+Dylan DeMelo,OTT,77,4,13,17,23.61,2.85,28,50,15
+Danny DeKeyser,DET,52,4,13,17,39.53,2.69,33,28,10
+Marcus Pettersson,"ANA, PIT",84,1,15,16,32.65,2.96,33,42,23
+Derek Forbort,L.A,81,2,12,14,36.84,2.3,38,66,10
+Colin Miller,VGK,65,1,12,13,30.95,3.03,28,33,17
+Marcus Kruger,CHI,74,4,7,11,52.38,5.78,28,6,14
+Patrik Nemeth,COL,74,1,7,8,23.53,2.05,38,14,3
+Gustav Forsling,CHI,43,2,6,8,50,2.18,28,21,14
+Jack Johnson,PIT,82,0,6,6,13.04,2.47,35,23,12
+Mark Borowiecki,OTT,53,1,4,5,21.74,2.62,48,23,13
+Timo Meier,S.J,78,22,25,47,75.81,19.84,37,34,41
+Gabriel Landeskog,COL,73,17,19,36,62.07,13.83,34,39,40
+Zach Hyman,TOR,71,14,19,33,55,14.48,50,22,23
+Kevin Labanc,S.J,82,13,20,33,71.74,10.19,30,37,20
+Tyson Barrie,COL,78,11,19,30,50,7.82,32,36,26
+Alex Killorn,T.B,82,12,15,27,60,11.19,30,18,20
+Mattias Ekholm,NSH,80,4,23,27,41.54,4.82,30,53,31
+Frank Vatrano,FLA,81,18,7,25,73.53,14.7,30,25,32
+Ryan Suter,MIN,82,3,21,24,35.82,4.65,30,27,19
+Radek Faksa,DAL,81,10,12,22,66.67,11.42,40,25,38
+Alexander Kerfoot,COL,78,9,13,22,68.75,8.68,30,20,22
+Rasmus Dahlin,BUF,82,4,18,22,37.93,4.81,30,63,33
+Brady Skjei,NYR,78,6,13,19,35.19,5.05,30,54,27
+Jake Virtanen,VAN,70,11,8,19,67.86,9.11,32,19,43
+Blake Comeau,DAL,77,7,11,18,60,8.5,30,34,29
+Wayne Simmonds,"NSH, PHI",79,10,8,18,58.06,10.3,45,28,25
+Robert Hagg,PHI,82,4,14,18,35.29,4.17,32,39,4
+Radko Gudas,PHI,77,3,14,17,37.78,3.48,30,48,20
+Garnet Hathaway,CGY,76,9,8,17,62.96,6.75,45,24,19
+Drew Doughty,L.A,82,0,16,16,34.04,4.09,30,72,18
+Scott Mayfield,NYI,79,3,13,16,34.78,4.48,40,62,10
+Milan Lucic,EDM,79,4,11,15,55.56,8,40,30,26
+Jamie Oleksiak,"DAL, PIT",57,4,8,12,33.33,2.33,40,37,9
+Madison Bowey,"DET, WSH",50,2,8,10,38.46,2.02,40,28,9
+Ben Lovejoy,"DAL, N.J",71,2,7,9,28.13,2.73,30,32,16
+Roman Polak,DAL,77,1,7,8,20.51,3.02,30,42,15
+Nikita Kucherov,T.B,82,24,45,69,84.15,12.51,34,62,50
+Leon Draisaitl,EDM,82,28,31,59,79.73,13.02,32,84,53
+Mikael Backlund,CGY,77,16,21,37,64.91,15.04,34,46,64
+Ryan Hartman,"NSH, PHI",83,11,13,24,53.33,10.84,34,36,33
+Zack Smith,OTT,70,7,15,22,70.97,8.42,42,43,34
+Justin Faulk,CAR,82,4,17,21,36.21,5.82,32,47,34
+Adrian Kempe,L.A,81,10,11,21,72.41,6.66,42,19,15
+Miles Wood,N.J,63,8,12,20,71.43,10.54,54,25,19
+Tony DeAngelo,NYR,61,4,14,18,36,3.31,42,68,16
+Adam Larsson,EDM,82,3,14,17,37.78,3.63,32,62,23
+Jay Bouwmeester,STL,78,3,12,15,35.71,3.22,32,40,22
+Jeff Carter,L.A,76,7,8,15,51.72,10.58,32,30,19
+Cedric Paquette,T.B,80,11,4,15,50,8.25,37,11,15
+Zdeno Chara,BOS,62,4,6,10,19.61,3.36,42,33,24
+Brad Marchand,BOS,79,18,30,48,78.69,13.47,39,63,43
+Mikko Rantanen,COL,74,11,31,42,72.41,9.97,34,29,32
+Blake Wheeler,WPG,82,13,27,40,71.43,11.82,39,15,32
+Erik Gustafsson,CHI,79,9,26,35,47.95,5.06,34,69,27
+Anders Lee,NYI,82,15,16,31,57.41,15.15,36,24,21
+Boone Jenner,CBJ,77,12,19,31,64.58,12.15,34,17,31
+Tom Wilson,WSH,63,15,14,29,60.42,10.52,84,36,33
+Darnell Nurse,EDM,82,8,19,27,42.86,6.8,39,57,26
+Mathieu Perreault,WPG,82,11,12,23,67.65,7.21,34,14,30
+Victor Hedman,T.B,70,8,13,21,35.59,6.99,34,31,23
+Brenden Dillon,S.J,82,0,21,21,31.82,2.71,39,35,14
+Tyler Myers,WPG,80,7,12,19,35.85,5.81,34,55,27
+Lucas Wallmark,CAR,81,7,10,17,58.62,12.24,34,25,25
+Brent Seabrook,CHI,78,3,12,15,32.61,5.18,39,55,16
+Matt Grzelcyk,BOS,66,1,7,8,21.62,3.11,59,32,23
+Brandon Carlo,BOS,72,2,5,7,14.89,4.11,34,37,33
+Mathew Barzal,NYI,82,14,25,39,82.98,12.43,36,97,56
+Brady Tkachuk,OTT,71,17,15,32,68.09,16.6,43,31,21
+Brandon Montour,"ANA, BUF",82,6,18,24,45.28,6.78,36,61,24
+Oliver Ekman-Larsson,ARI,81,5,13,18,38.3,5.54,38,45,23
+P.K. Subban,NSH,63,6,11,17,36.17,3.43,36,51,17
+Hampus Lindholm,ANA,76,1,15,16,29.09,3.82,36,62,17
+Niklas Kronwall,DET,79,2,12,14,30.43,1.98,36,52,10
+Dustin Byfuglien,WPG,42,2,9,11,37.93,3.65,41,32,15
+Brendan Smith,NYR,63,4,7,11,50,4.74,46,45,28
+Max Domi,MTL,82,22,31,53,79.1,13.31,53,59,41
+Evgeny Kuznetsov,WSH,76,8,35,43,71.67,10.05,38,45,41
+Dylan Larkin,DET,76,16,25,41,80.39,16.1,38,82,53
+Mark Giordano,CGY,78,10,30,40,50.63,5.61,38,46,54
+David Perron,STL,57,14,15,29,80.56,7.15,38,12,36
+Jake Muzzin,"L.A, TOR",80,8,21,29,45.31,4.37,43,86,16
+Antoine Roussel,VAN,65,8,20,28,80,8.07,40,14,18
+Jacob Trouba,WPG,82,3,20,23,33.82,5.55,38,70,38
+Sam Bennett,CGY,71,9,12,21,61.76,10.4,43,31,25
+Nick Ritchie,ANA,60,6,15,21,61.76,7.41,58,28,17
+Ben Chiarot,WPG,78,4,14,18,40.91,3.58,38,52,19
+Brayden McNabb,VGK,81,3,11,14,22.95,2.63,38,34,30
+Andrei Svechnikov,CAR,82,13,11,24,64.86,16.32,40,55,32
+Vincent Trocheck,FLA,55,5,11,16,55.17,7.72,40,41,43
+Josh Manson,ANA,74,3,11,14,31.82,3.5,50,61,22
+Ian Cole,COL,71,1,11,12,31.58,2.9,65,37,22
+Alexander Edler,VAN,56,4,8,12,34.29,2.55,42,23,7
+Alexander Radulov,DAL,70,17,22,39,65,13.71,44,53,39
+Pierre-Luc Dubois,CBJ,82,20,24,44,57.89,14.97,46,42,43
+Evgeni Malkin,PIT,68,11,29,40,90.91,11.52,71,66,55
+Blake Coleman,N.J,78,13,12,25,60.98,14.46,48,32,33
+Michal Kempny,WSH,71,6,16,22,31.43,3.38,48,43,19
+Nikita Zadorov,COL,70,7,7,14,29.79,3.56,63,30,17
+Joel Edmundson,STL,64,2,8,10,22.73,3.37,53,33,7
+Evander Kane,S.J,75,21,18,39,63.93,18.51,73,34,40
